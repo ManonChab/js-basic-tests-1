@@ -1,13 +1,20 @@
 function welcome(){
-    //Escribe tu código aquí
+    return "Hello World";
 };
 
 function evenOrOdd(n){
-    //Escribe tu código aquí
+
+    if (n%2 ===0) {
+    return "even";
+    }
+    if (n%2 !== 0) {; 
+    return "odd";
+    }
 };
 
 function greeting(name) {
-    //Escribe tu código aquí
-};
+    return "Hola, "+name+"!";
+ };
+
 
 export { evenOrOdd, greeting, welcome }
