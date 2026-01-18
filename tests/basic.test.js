@@ -21,7 +21,7 @@ describe('Comparaciones en Javascript', () => {
     it("usando ===", () => {
         const number = 20;
         //completa la asignación usando number y el comparador ===
-        const expresion = 'twenty' === number ;
+        const expresion = number === "20" ;
         expect(expresion).toBeFalsy();
     });
     it("usando !==", () => {
