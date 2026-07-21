@@ -1,3 +1,13 @@
+# JavaScript Fundamentals
+
+⚠️ This repository contains exercises completed while learning JavaScript during my Full Stack bootcamp.
+
+The goal of this repository was educational rather than production-ready code.
+
+For more representative work, please see my pinned repositories.
+
+------------------------------------------------------------------------------------------
+
 # :see_no_evil: Ejercicios básicos tests en Javascript parte I
 
 ## Objetivo
